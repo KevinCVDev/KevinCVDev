@@ -1,12 +1,10 @@
-Hola  👋 soy Kevin / KevinCVDev ✨
+<h1 align="center">Hola 👋 soy Kevin / KevinCVDev ✨ </h1>
 
 
+<h2>SOBRE MI 😃</h2>
 
 
-
-SOBRE MI 😃
-
-
+<p aling="lef">
 🌐 Desarrollador Web
 
 
@@ -18,3 +16,4 @@ Además de conocimientos en otros ámbitos como soporte técnico / systemadmin
 
 TECNOLOGÍAS CONOCIDAS
 
+<
