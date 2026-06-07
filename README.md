@@ -14,6 +14,6 @@
 Además de conocimientos en otros ámbitos como soporte técnico / systemadmin
 
 
-TECNOLOGÍAS CONOCIDAS
+<h2>TECNOLOGÍAS CONOCIDAS</h2>h
 
-<
+
