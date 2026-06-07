@@ -14,6 +14,5 @@
 Además de conocimientos en otros ámbitos como soporte técnico / systemadmin
 
 
-<h2>TECNOLOGÍAS CONOCIDAS</h2>h
-
-
+<h2>Tecnologías Conocidas</h2>
+<img src="https://skillicons.dev/icons?i=html,css,javascript/>
