@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Kevin / KevinCVDev ✨ </h1>
 
 
-<h2>SOBRE MI 😃</h2>
+<h2>Sobre mi 😃</h2>
 
 
 <p aling="lef">
