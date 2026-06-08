@@ -11,7 +11,7 @@
 💻 Programando desde octubre de 2023
 
 
-Además de conocimientos en otros ámbitos como soporte técnico / systemadmin
+Además tengo conocimientos en otros ámbitos como soporte técnico / systemadmin
 
 
 <h2>Tecnologías Conocidas</h2>
