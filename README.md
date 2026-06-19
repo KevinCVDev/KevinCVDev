@@ -15,4 +15,4 @@ Además tengo conocimientos en otros ámbitos como soporte técnico / systemadmi
 
 
 <h2>Tecnologías Conocidas</h2>
- <img src="https://skillicons.dev/icons?i=css,html,js,git,github,vscode,linux,bootstrap,jquery,&perline=12" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux,bootstrap,jquery,&perline=12" />
